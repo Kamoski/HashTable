@@ -1,0 +1,8 @@
+﻿  ASD2_KrecichwostK_hashtable.cpp
+x:\projekty c++\ii rok studiowania 2 sem\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_hashtable.cpp(173): warning C4267: "argument": konwersja z "size_t" do "long", możliwa utrata danych
+  Trwa generowanie kodu
+  4 of 187 functions ( 2.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  ASD2_KrecichwostK_tablicaZCache.vcxproj -> X:\Projekty C++\II rok studiowania 2 sem\ASD2_KrecichwostK_tablicaZCache\x64\Release\ASD2_KrecichwostK_tablicaZCache.exe

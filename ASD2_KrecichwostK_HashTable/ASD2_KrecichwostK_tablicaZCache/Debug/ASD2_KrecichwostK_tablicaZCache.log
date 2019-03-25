@@ -1,0 +1,5 @@
+﻿  ASD2_KrecichwostK_hashtable.cpp
+x:\projekty c++\ii rok studiowania 2 sem\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_hashtable.cpp(217): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+x:\projekty c++\ii rok studiowania 2 sem\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_hashtable.cpp(227): warning C4018: "<": niezgodność typu ze znakiem/bez znaku
+x:\projekty c++\ii rok studiowania 2 sem\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_tablicazcache\asd2_krecichwostk_hashtable.cpp(447): warning C4715: "parseOrders”: niewszystkie ścieżki kodu zwracają wartość
+  ASD2_KrecichwostK_tablicaZCache.vcxproj -> X:\Projekty C++\II rok studiowania 2 sem\ASD2_KrecichwostK_tablicaZCache\Debug\ASD2_KrecichwostK_tablicaZCache.exe

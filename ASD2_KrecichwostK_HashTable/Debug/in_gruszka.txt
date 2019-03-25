@@ -1,0 +1,14 @@
+1
+size 10
+add 13
+add 23
+add 33
+add 43
+add 53
+add 63
+add 73
+print
+delete 63
+print
+stop
+

@@ -1,0 +1,15 @@
+1
+size 10
+add 66 szostka
+add 77 siodemka
+add 88 osemka
+add 76 szostka_dwa
+add 16 szostka_trzy
+add 26 szostka_cztery
+add 11 jeden
+print
+delete 77
+print
+delete 88
+print
+stop
